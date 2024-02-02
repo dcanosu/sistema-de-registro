@@ -5,3 +5,5 @@
 para ejecutar el sistema, debes poner:
 
 ```npn install react```
+
+<h1>Sistema de registro 2</h1>
